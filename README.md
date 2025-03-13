@@ -145,10 +145,6 @@ git clone <https://github.com/IOVASCON/pratica_azure_ml.git>
 
     ![Show AzureML-SDK](images/show_azureml_sdk.PNG)
 
-🚀 Clonando o Repositório
-
-git clone <https://github.com/IOVASCON/pratica_azure_ml.git>
-
 ## 🤝 Contribuições
 
 Contribuições são muito bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias:
